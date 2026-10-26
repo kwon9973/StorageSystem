@@ -1,0 +1,3 @@
+/home/vboxuser/DroneDemo/joystickDemo/build/CMakeFiles/reaction_timer.dir
+/home/vboxuser/DroneDemo/joystickDemo/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/DroneDemo/joystickDemo/build/CMakeFiles/rebuild_cache.dir
