@@ -1,0 +1,3 @@
+/home/vboxuser/HostShare/CMake/baby_step4/build/CMakeFiles/hello.dir
+/home/vboxuser/HostShare/CMake/baby_step4/build/CMakeFiles/edit_cache.dir
+/home/vboxuser/HostShare/CMake/baby_step4/build/CMakeFiles/rebuild_cache.dir

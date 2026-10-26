@@ -1,0 +1,7 @@
+Knote: This error originates from a subprocess, and is likely not a problem with pip.
+  ERROR: Failed building wheel for pyyaml
+Failed to build pyyaml
+error: failed-wheel-build-for-install
+
+× Failed to build installable wheels for some pyproject.toml based projects
+╰─> pyyaml
